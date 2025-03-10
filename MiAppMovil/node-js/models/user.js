@@ -41,4 +41,4 @@ const user = {
     }
 };
 
-module.esports = user;
+module.exports = user;
